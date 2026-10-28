@@ -1,0 +1,6 @@
+{
+  "name": "Supermarket Billing and Management System (SBMS)",
+  "description": "Comprehensive Indian retail POS and supermarket management system with barcode scanning, GST tax calculation, split payments, inventory FEFO, and sales reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
